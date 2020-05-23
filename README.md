@@ -1,2 +1,4 @@
 # springcloud-config
-spring cloud的公用配置中心。The public configuration center of spring cloud.
+springcloud-config的配置中心
+
+springcloud-config的配置中心
